@@ -23,7 +23,3 @@ Aqui está uma captura de tela do projeto:
 
 ![image](https://github.com/user-attachments/assets/7c8dd309-e58e-4f19-b7fb-d5e2677eda41)
 
-## Contato
-Sinta-se à vontade para entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/seu-usuario/) ou do [Twitter](https://twitter.com/seu-usuario).
-
-Feito com ♥ por [Seu Nome](https://github.com/seu-usuario)
