@@ -22,4 +22,9 @@ O AluraPlus é um site fictício de streaming que desenvolvi como parte dos meus
 Aqui está uma captura de tela do projeto:
 
 ![image](https://github.com/user-attachments/assets/7c8dd309-e58e-4f19-b7fb-d5e2677eda41)
+![image](https://github.com/user-attachments/assets/24fa0644-58dc-4cfc-8b2a-18db64f5da2c)
+![image](https://github.com/user-attachments/assets/ee0cc512-9e29-441a-afb8-dc8590b4d54e)
+
+
+
 
